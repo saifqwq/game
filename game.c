@@ -70,7 +70,7 @@ int main()
     }
     else
     {
-        printf("You Lose!\n");
+        printf("You Lose!\n"); 
     }
     printf("You chose %c and computer chose %c. ", you, comp);
     return 0;
